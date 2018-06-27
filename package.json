@@ -1,0 +1,23 @@
+{
+  "name": "blank",
+  "version": "1.0.0",
+  "description": "A bot template to demonstrate using mongo collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "djs"
+  ],
+  "author": "koubi",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.2",
+    "mongodb": "^3.0.10",
+    "mongoose": "^5.1.7",
+    "request": "^2.87.0",
+    "roll": "^1.2.0"
+  }
+}
